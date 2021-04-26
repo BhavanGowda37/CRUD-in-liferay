@@ -1,0 +1,4 @@
+Bundle-Name: insert
+Bundle-SymbolicName: com.insert
+Bundle-Version: 1.0.0
+Export-Package: com.insert.constants
